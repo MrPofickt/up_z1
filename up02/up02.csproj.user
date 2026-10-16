@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="MyForms\EditMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserComponent\MaterialCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MyForms\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
